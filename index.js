@@ -1,3 +1,4 @@
-const minhaString = 'eu tenho ' + "uma " + "caixa d'água";
+const minhaString = 'caixa d\'água';
+console.log("o\t fulano\n disse \"...\"")
 
 console.log(minhaString);
