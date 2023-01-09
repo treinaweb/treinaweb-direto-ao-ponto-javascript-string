@@ -1,4 +1,3 @@
+const minhaString = 'eu tenho ' + "uma " + "caixa d'água";
 
-
-console.log('ele disse "..."')
-console.log("caixa d'água")
+console.log(minhaString);
