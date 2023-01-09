@@ -1,4 +1,4 @@
-const minhaString = 'caixa d\'água';
-console.log("o\t fulano\n disse \"...\"")
+const minhaString = `caixa d'água. 
+o filano falou "..."`;
 
 console.log(minhaString);
