@@ -1,5 +1,13 @@
+// 'a'.localeCompare('b', 'pt-BR')
+// -1 -2
 
-const nome = "Ariel";
+// 'b'.localeCompare('a', 'pt-BR')
+// 1 2
 
-const sobrenome = "Sardinha";
-console.log(`${nome} ${sobrenome} idade: ${2023 - 1993}`)
+// 'a'.localeCompare('a', 'pt-BR')
+// 0
+
+// console.log('aa'.localeCompare('ab', 'pt-BR'))
+// console.log('2'.localeCompare('10', 'pt-BR', { numeric: true }))
+
+console.log('a' > 'A')
