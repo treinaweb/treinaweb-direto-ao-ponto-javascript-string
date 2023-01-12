@@ -1,3 +1,4 @@
-const myString = 'Ariel'.indexOf('dwada');
-
-console.log(myString);
+const nome = 'Ariel'.toUpperCase();
+const sobrenome = 'SARDINHA'.toLowerCase();
+console.log(nome);
+console.log(sobrenome);
