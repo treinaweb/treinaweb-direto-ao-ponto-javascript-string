@@ -1,3 +1,3 @@
-const nome = 'Ariel'.slice(0, 4);
+const nome = '123.456.729-25'.replace(/[^0-9]/g, '');
 
 console.log(nome);
