@@ -1,4 +1,3 @@
-const nome = 'Ariel'.toUpperCase();
-const sobrenome = 'SARDINHA'.toLowerCase();
+const nome = 'Ariel'.slice(0, 4);
+
 console.log(nome);
-console.log(sobrenome);
