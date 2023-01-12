@@ -1,4 +1,4 @@
+const nome = "Ariel";
+const sobrenome = "Sardinha";
 
-console.log('o fulano falo: "..."');
-
-console.log("caixa d'água");
+console.log(nome + sobrenome + 'idade:' + '30');
