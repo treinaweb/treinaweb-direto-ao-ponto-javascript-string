@@ -4,4 +4,4 @@ Eu gosto da treinaweb
 Treinaweb
 `);
 
-console.log(resultado);
+console.log(resultado)
